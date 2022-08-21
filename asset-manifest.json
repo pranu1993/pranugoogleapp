@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pranugoogleapp/static/css/main.aa74118d.css",
+    "main.js": "/pranugoogleapp/static/js/main.304fafab.js",
+    "index.html": "/pranugoogleapp/index.html",
+    "main.aa74118d.css.map": "/pranugoogleapp/static/css/main.aa74118d.css.map",
+    "main.304fafab.js.map": "/pranugoogleapp/static/js/main.304fafab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa74118d.css",
+    "static/js/main.304fafab.js"
+  ]
+}
